@@ -59,8 +59,8 @@ def convert_file(file_path, output_path):
 
 def main():
     # convert_file(file_path, output_path)
-    convert_file("./webkb-train-stemmed.txt", "webkb_train_stemmed.arff")
-    convert_file("./webkb-test-stemmed.txt", "webkb_test_stemmed.arff")
+    convert_file("./input/webkb-train-stemmed.txt", "./output/webkb_train_stemmed.arff")
+    convert_file("./input/webkb-test-stemmed.txt", "./output/webkb_test_stemmed.arff")
     # NOTE: these will create this file path if it is not already created
     # Otherwise, if found, it will overwrite the previous information
 
