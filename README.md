@@ -7,7 +7,7 @@
 Convert `.txt` files into weka accepted `.arff` files then classify the documents into four categories.
 
 ## Results
-![process overview][image_overview] 
+![process overview][image_results] 
 
 ## Dataset Information
 The data set includes 2803 training and 1396 test text based and composed of webpages collected from the computer science departments of various universities and are classified into four categories (student, faculty, project, and course).  The data set has already been preprocessed -- stop words removed and stemming performed.
