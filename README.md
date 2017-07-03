@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image_overview]: ./misc/weka_overview.png
+[image_overview]: ./misc/weka_overview_cropped.png
 
 # Weka document classification
 ![process overview][image_overview] 
